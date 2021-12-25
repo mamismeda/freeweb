@@ -37,7 +37,7 @@
 .orangy {
   background-color: #f63e08;
   width: fit-content;
-  padding: 20px;
+  padding: 10px;
 }
 .orangy a {
   color: #fff;
@@ -87,9 +87,6 @@
 
 #cate {
   border-left: 1px solid #d7d7d7;
-}
-#cate:focus {
-  box-shadow: none;
 }
 
 /*# sourceMappingURL=style.css.map */
