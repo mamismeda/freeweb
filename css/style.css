@@ -226,4 +226,46 @@
   color: #fff;
 }
 
+.quad {
+  padding: 50px 0;
+}
+.quad .game {
+  padding: 30px;
+  border-radius: 10px;
+  background-image: url(../images/first.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.quad .game h3 {
+  text-align: center;
+  font-size: 30px;
+  color: #ffffff;
+}
+.quad .aquaman {
+  border: 1px solid #fff;
+  padding-bottom: 30px;
+  height: fit-content;
+  margin-bottom: 100px;
+  border-radius: 2px;
+}
+.quad .witch {
+  padding: 10px 10px 8px 15px;
+}
+.quad .witch h5 {
+  font-size: 18px;
+  color: #fff;
+}
+.quad .witch p {
+  font-size: 12px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.quad .witch a {
+  padding: 7px 15px;
+  color: #fff;
+  border: 1px solid #fff;
+  text-decoration: none;
+}
+
 /*# sourceMappingURL=style.css.map */
