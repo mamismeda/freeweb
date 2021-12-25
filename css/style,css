@@ -19,4 +19,12 @@
   color: #353743;
 }
 
+.main-div {
+  background-color: pink;
+}
+
+#main-ulu {
+  margin: auto;
+}
+
 /*# sourceMappingURL=style,css.map */

@@ -7,6 +7,9 @@
 .top-navi {
   background-color: #f5f5f5;
 }
+.top-navi .serv {
+  border-right: 1px solid #333333;
+}
 
 .firstdrop {
   margin-left: auto;
@@ -17,6 +20,14 @@
 
 #ulu {
   color: #353743;
+  font-size: 14px;
+}
+
+#main-ulu {
+  margin: auto;
+}
+#main-ulu li {
+  margin-right: 20px;
 }
 
 /*# sourceMappingURL=style.css.map */
