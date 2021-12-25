@@ -29,5 +29,17 @@
 #main-ulu li {
   margin-right: 20px;
 }
+#main-ulu a {
+  font-size: 18px;
+  color: #353743;
+}
+
+.orangy {
+  background-color: #f63e08;
+  width: fit-content;
+}
+.orangy a {
+  color: #fff;
+}
 
 /*# sourceMappingURL=style.css.map */
