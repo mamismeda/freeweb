@@ -142,4 +142,41 @@
   color: #171622;
 }
 
+.muchflex {
+  padding: 50px 0;
+}
+.muchflex .party {
+  border-left: 4px solid black;
+}
+.muchflex .party p {
+  color: #151919;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.muchflex .pricing {
+  padding: 20px;
+  filter: drop-shadow(0px 10px 14.5px rgba(152, 152, 152, 0.25));
+  border: 1px solid rgba(228, 182, 17, 0);
+  border-radius: 3px;
+  background-color: #fff;
+}
+.muchflex .pricing sup {
+  text-decoration: line-through;
+}
+.muchflex .pricing p {
+  font-size: 18px;
+  color: #171622;
+  padding-right: 120px;
+}
+.muchflex .pricing span {
+  font-size: 24px;
+  color: #25771c;
+}
+.muchflex .pricing a {
+  padding: 10px 20px;
+  background-image: linear-gradient(0deg, #f62d03 0%, #ec4316 98%, #f44407 100%);
+  border-radius: 2px;
+  color: #fff;
+}
+
 /*# sourceMappingURL=style.css.map */
