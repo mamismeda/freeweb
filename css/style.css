@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.top-navi {
+  background-color: #f5f5f5;
+}
+
+.firstdrop {
+  margin-left: auto;
+}
+.firstdrop a {
+  color: #353743;
+}
+
+#ulu {
+  color: #353743;
+}
+
+/*# sourceMappingURL=style.css.map */
