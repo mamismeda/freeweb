@@ -294,8 +294,55 @@
     }
 }
 footer{
-    padding: 50px 0;
+    padding: 50px 0 0;
     background-color: #24292e;
     color: #fff;
-      
+      .pages{
+          z-index: 9999;
+        h4{
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+      }
+    ul{
+        list-style: none;
+        padding: 0;
+        li{
+            font-size: 14px;
+            color: #d0d0d0;
+        }
+    }
+    p{
+        font-size: 12px;
+        color: #d0d0d0;
+    }
+    .reddy{
+        color: #b52339;
+    }
+    .spaini{
+        padding: 8px 12px;
+        background-color: #353b41;
+        border-radius: 1px;
+    }
+    .foot-pic{
+       position: absolute;
+       top: 50px;
+       right: 50px;
+       z-index: 1;
+    }
+    .copyright{
+        position: relative;
+        background-color: #353b42;
+        padding: 25px 0;
+        margin-top: 50px;
+        z-index: 55;
+         p{
+            font-size: 12px;
+            color: #686868;
+            margin: 0;
+         }
+         .foru{
+            color: #b52339;
+         }
+    }
 }
