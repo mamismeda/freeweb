@@ -272,4 +272,18 @@
   gap: 3rem;
 }
 
+.last-carusel {
+  background-color: #f5f8fd;
+  padding: 50px 0;
+}
+.last-carusel .lastp {
+  padding: 10px;
+}
+.last-carusel .lastp p {
+  font-size: 18px;
+  color: #151919;
+  padding-left: 10px;
+  border-left: 4px solid #464646;
+}
+
 /*# sourceMappingURL=style.css.map */
