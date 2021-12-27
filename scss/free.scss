@@ -233,13 +233,13 @@
     }
     .aquaman{
         border: 1px solid #fff;
-        padding-bottom: 30px;
+        padding-bottom: 60px;
         height: fit-content;
-        margin-bottom: 100px;
+        margin-bottom: 80px;
         border-radius: 2px;
     }
     .witch{
-        padding: 10px 10px 8px 15px;
+        padding: 0 10px 8px 15px;
         h5{
             font-size: 18px;
             color: #fff;
@@ -256,4 +256,9 @@
             text-decoration: none;
         }
     }
+    .rowy{
+        justify-content: center;
+        gap: 3rem;
+    }
+        
 }

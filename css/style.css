@@ -244,13 +244,13 @@
 }
 .quad .aquaman {
   border: 1px solid #fff;
-  padding-bottom: 30px;
+  padding-bottom: 60px;
   height: fit-content;
-  margin-bottom: 100px;
+  margin-bottom: 80px;
   border-radius: 2px;
 }
 .quad .witch {
-  padding: 10px 10px 8px 15px;
+  padding: 0 10px 8px 15px;
 }
 .quad .witch h5 {
   font-size: 18px;
@@ -266,6 +266,10 @@
   color: #fff;
   border: 1px solid #fff;
   text-decoration: none;
+}
+.quad .rowy {
+  justify-content: center;
+  gap: 3rem;
 }
 
 /*# sourceMappingURL=style.css.map */
