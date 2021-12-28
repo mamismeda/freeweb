@@ -37,6 +37,7 @@
 
 #ulu {
   color: #353743;
+  font-family: mrglovani;
   font-size: 14px;
 }
 
@@ -48,6 +49,7 @@
 }
 #main-ulu a {
   font-size: 18px;
+  font-family: sanet;
   color: #353743;
 }
 
@@ -58,6 +60,7 @@
 }
 .orangy a {
   color: #fff;
+  font-family: sanet;
 }
 
 @media all and (max-width: 600px) {
@@ -70,6 +73,7 @@
   border: 1px solid #d7d7d7;
   padding-top: 10px;
   margin-left: -15px;
+  font-family: sanet;
 }
 .search-bar input {
   border: 0;
@@ -93,6 +97,7 @@
 
 .texting {
   text-align: right;
+  font-family: sanet;
 }
 .texting a {
   text-decoration: none;
@@ -123,6 +128,7 @@
   filter: drop-shadow(0px 2px 16px rgba(111, 107, 107, 0.13));
   padding: 85px 40px;
   width: fit-content;
+  font-family: sanet;
 }
 .layer-sect .card-one h3 {
   font-size: 24px;
@@ -168,6 +174,7 @@
   border-radius: 19px;
   filter: drop-shadow(0px 10px 14.5px rgba(152, 152, 152, 0.25));
   background-color: #ffffff;
+  font-family: sanet;
 }
 .first-carusel .flexy .strafe p {
   font-size: 14px;
@@ -184,6 +191,7 @@
 }
 .muchflex .party {
   border-left: 4px solid black;
+  font-family: sanet;
 }
 .muchflex .party p {
   color: #151919;
@@ -229,6 +237,7 @@
 .littlepar .heding {
   text-align: center;
   margin-bottom: 20px;
+  font-family: sanet;
 }
 .littlepar .heding p {
   font-size: 30px;
@@ -246,6 +255,7 @@
   font-size: 11px;
   color: #81858a;
   padding-right: 250px;
+  font-family: arial;
 }
 .littlepar .forangle input {
   background-color: #353b42;
@@ -270,6 +280,7 @@
 }
 .quad {
   padding: 50px 0;
+  font-family: sanet;
 }
 .quad .game {
   padding: 30px;
@@ -337,6 +348,7 @@
 }
 .last-carusel .lastp p {
   font-size: 18px;
+  font-family: sanet;
   color: #151919;
   padding-left: 10px;
   border-left: 4px solid #464646;
@@ -368,6 +380,7 @@ footer {
   padding: 50px 0 0;
   background-color: #24292e;
   color: #fff;
+  font-family: sanet;
 }
 footer .pages {
   z-index: 9999;
