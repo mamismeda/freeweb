@@ -3,6 +3,19 @@
     margin-block-start: 0;
     margin-block-end: 0;
 }
+@font-face {
+    font-family: sanet;
+    src: url(../fonts/alk-sanet.ttf);
+}
+@font-face {
+    font-family: arial;
+    src: url(../fonts/bpg_arial_2009.ttf);
+}
+@font-face {
+    font-family: mrglovani;
+    src: url(../fonts/bpg_mrgvlovani_caps_2010.ttf);
+}
+
 .top-navi{
     background-color: #f5f5f5;;
     .serv{
