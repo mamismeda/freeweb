@@ -11,6 +11,11 @@
   border-right: 1px solid #d7d7d7;
 }
 
+@media all and (max-width: 1000px) {
+  .top-navi {
+    display: none;
+  }
+}
 .firstdrop {
   margin-left: auto;
 }
@@ -43,6 +48,11 @@
   color: #fff;
 }
 
+@media all and (max-width: 600px) {
+  .orangy {
+    margin: auto;
+  }
+}
 .search-bar {
   display: flex;
   border: 1px solid #d7d7d7;
@@ -119,6 +129,11 @@
 .layer-sect .card-two {
   padding-left: 200px;
 }
+@media all and (max-width: 600px) {
+  .layer-sect .card-two {
+    padding: 50px;
+  }
+}
 
 .first-carusel {
   padding: 50px 0;
@@ -142,6 +157,11 @@
   color: #171622;
 }
 
+@media all and (max-width: 600px) {
+  .first-carusel {
+    padding: 0;
+  }
+}
 .muchflex {
   padding: 50px 0;
 }
