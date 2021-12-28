@@ -126,6 +126,11 @@
   padding: 10px 20px;
   background-image: linear-gradient(0deg, #f54d09 0%, #f91b01 100%);
 }
+@media all and (max-width: 800px) {
+  .layer-sect .card-one {
+    width: 100%;
+  }
+}
 .layer-sect .card-two {
   padding-left: 200px;
 }
@@ -342,6 +347,11 @@
   color: #171622;
 }
 
+@media all and (max-width: 1000px) {
+  .last-carusel {
+    display: none;
+  }
+}
 footer {
   padding: 50px 0 0;
   background-color: #24292e;

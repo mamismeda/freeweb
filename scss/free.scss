@@ -118,6 +118,11 @@
 
          }
     }
+    @media all and (max-width:800px){
+        .card-one{
+            width: 100%;
+        }
+    }
     .card-two{
         padding-left: 200px;
     }
@@ -331,6 +336,11 @@
                 color: #171622;
             }
         }
+    }
+}
+@media all and (max-width:1000px){
+    .last-carusel{
+        display: none;
     }
 }
 footer{
